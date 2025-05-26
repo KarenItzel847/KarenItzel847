@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![JS](https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![MY SQL](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-c-A8B9CC?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=white)
